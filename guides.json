@@ -1,37 +1,142 @@
 [
   {
     "id": 1,
-    "title": "Welcome to the Demon Hunt",
-    "gameName": "Kpop Demon Hunter",
-    "content": "In a world where shadows lurk beneath the glittering stage lights, a new breed of warriors emerges. The Kpop Demon Hunters are not just idols; they are the last line of defense against supernatural forces. Combining killer choreography with lethal combat skills, they protect humanity while maintaining their superstar status. Join them on their journey to vanquish evil and drop chart-topping hits.",
-    "imageUrl": "https://images.unsplash.com/photo-1542360663-8b401565a0ca?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+    "title": "Owls Can Turn Their Heads 270 Degrees",
+    "gameName": "Owl Facts",
+    "content": "Owls cannot move their eyes like humans because their eyes are fixed in their sockets. Instead, they rotate their heads up to 270 degrees, giving them an impressive field of view while hunting.",
+    "imageUrl": "https://images.unsplash.com/photo-1517849845537-4d257902454a?auto=format&fit=crop&w=800&q=80"
   },
   {
     "id": 2,
-    "title": "Mastering the Neon Blade",
-    "gameName": "Kpop Demon Hunter",
-    "content": "The signature weapon of every seasoned Demon Hunter is the Neon Blade. Forged from pure starlight and synchronized to the rhythm of the universe, it slices through darkness effortlessly. To master this weapon, one must first learn to harmonize their soul with the beat. Practice your rhythm, stay light on your feet, and let the music guide your strikes.",
-    "imageUrl": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+    "title": "Masters of Night Vision",
+    "gameName": "Owl Facts",
+    "content": "Owls have large eyes specially designed to gather light, allowing them to see exceptionally well in low-light conditions. This makes them highly effective nighttime hunters.",
+    "imageUrl": "https://images.unsplash.com/photo-1501706362039-c6e80948bb3f?auto=format&fit=crop&w=800&q=80"
   },
   {
     "id": 3,
-    "title": "The Enigma of the Phantom Idol",
-    "gameName": "Kpop Demon Hunter",
-    "content": "Rumors speak of a Phantom Idol, a mysterious figure who appears only during the blood moon. Some say they are a fallen Hunter, while others believe they are a demon in disguise. Their songs possess a hypnotic quality, capable of mesmerizing both mortals and spirits. If you ever encounter the Phantom Idol, remember: do not lose yourself in their melody.",
-    "imageUrl": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+    "title": "Silent Flight Experts",
+    "gameName": "Owl Facts",
+    "content": "The edges of an owl's feathers are specially adapted to reduce noise. Their nearly silent flight allows them to sneak up on prey without being heard.",
+    "imageUrl": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=800&q=80"
   },
   {
     "id": 4,
-    "title": "Shadow Beasts: A Hunter's Guide",
-    "gameName": "Kpop Demon Hunter",
-    "content": "Shadow Beasts are the most common foes you will face. They feed on negative energy and fear. To defeat them, you must project confidence and positivity. A well-executed dance combo combined with a powerful vocal high-note will shatter their shadowy forms. Never let them sense your fear, and always keep the rhythm going.",
-    "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+    "title": "More Than 250 Species",
+    "gameName": "Owl Facts",
+    "content": "There are over 250 owl species living around the world. They can be found on every continent except Antarctica, adapting to forests, deserts, mountains, and grasslands.",
+    "imageUrl": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=800&q=80"
   },
   {
     "id": 5,
-    "title": "The Final Encore",
-    "gameName": "Kpop Demon Hunter",
-    "content": "The ultimate battle is known as the Final Encore. It is a grueling test of endurance, skill, and sheer willpower. Only the most elite Hunters survive the Encore. You must perfectly execute your ultimate moves while maintaining perfect pitch. When the final note strikes and the demons are banished, the roar of the crowd will be your ultimate reward.",
-    "imageUrl": "https://images.unsplash.com/photo-1470229722913-7c092bb45800?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+    "title": "Excellent Hearing",
+    "gameName": "Owl Facts",
+    "content": "Many owls have unevenly placed ears that help them detect the exact location of prey, even when it is hidden beneath snow or leaves.",
+    "imageUrl": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 6,
+    "title": "Most Owls Hunt at Night",
+    "gameName": "Owl Facts",
+    "content": "Many owl species are nocturnal, meaning they are most active after sunset. Darkness gives them an advantage over many of their prey.",
+    "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 7,
+    "title": "Not All Owls Are Nocturnal",
+    "gameName": "Owl Facts",
+    "content": "Some owl species prefer hunting during the day or at dawn and dusk. Their activity depends on their habitat and food sources.",
+    "imageUrl": "https://images.unsplash.com/photo-1502082553048-f009c37129b9?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 8,
+    "title": "Owls Are Carnivores",
+    "gameName": "Owl Facts",
+    "content": "Owls feed on mice, rats, birds, insects, reptiles, frogs, and even fish. Their diet varies depending on the species and where they live.",
+    "imageUrl": "https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 9,
+    "title": "They Swallow Prey Whole",
+    "gameName": "Owl Facts",
+    "content": "Small prey is often swallowed whole. Later, owls regurgitate pellets containing bones, fur, feathers, and other indigestible materials.",
+    "imageUrl": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 10,
+    "title": "Pellets Help Scientists",
+    "gameName": "Owl Facts",
+    "content": "Scientists study owl pellets to learn about local ecosystems. The bones inside reveal what owls have been eating and what animals live nearby.",
+    "imageUrl": "https://images.unsplash.com/photo-1465146344425-f00d5f5c8f07?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 11,
+    "title": "Baby Owls Are Called Owlets",
+    "gameName": "Owl Facts",
+    "content": "Young owls are known as owlets. They remain in the nest until their feathers develop enough for them to fly and hunt on their own.",
+    "imageUrl": "https://images.unsplash.com/photo-1473773508845-188df298d2d1?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 12,
+    "title": "Females Are Often Larger",
+    "gameName": "Owl Facts",
+    "content": "In many owl species, females are slightly larger and heavier than males. This size difference may help during nesting and protecting young.",
+    "imageUrl": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 13,
+    "title": "Owls Rarely Build Their Own Nests",
+    "gameName": "Owl Facts",
+    "content": "Instead of building nests, many owls occupy abandoned nests, tree cavities, rocky cliffs, or old buildings.",
+    "imageUrl": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 14,
+    "title": "Powerful Talons",
+    "gameName": "Owl Facts",
+    "content": "Owls have incredibly strong feet and razor-sharp talons that allow them to catch, grip, and carry prey with ease.",
+    "imageUrl": "https://images.unsplash.com/photo-1426604966848-d7adac402bff?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 15,
+    "title": "Perfect Natural Camouflage",
+    "gameName": "Owl Facts",
+    "content": "The patterns on an owl's feathers blend perfectly with tree bark and branches, making them difficult for predators and prey to notice.",
+    "imageUrl": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 16,
+    "title": "Owls Speak Through Calls",
+    "gameName": "Owl Facts",
+    "content": "Owls use hoots, whistles, screeches, and clicks to communicate with mates, warn rivals, and defend their territory.",
+    "imageUrl": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 17,
+    "title": "The Smallest Owl",
+    "gameName": "Owl Facts",
+    "content": "The Elf Owl is the smallest owl in the world. It stands only about 13 to 15 centimeters tall and weighs around 40 grams.",
+    "imageUrl": "https://images.unsplash.com/photo-1466721591366-2d5fba72006d?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 18,
+    "title": "The Largest Owl",
+    "gameName": "Owl Facts",
+    "content": "Blakiston's Fish Owl is one of the largest owl species on Earth, with a wingspan that can reach nearly 2 meters.",
+    "imageUrl": "https://images.unsplash.com/photo-1470115636492-6d2b56f9146d?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 19,
+    "title": "Symbols of Wisdom",
+    "gameName": "Owl Facts",
+    "content": "For centuries, owls have symbolized wisdom, knowledge, and mystery in many cultures. In some traditions, they are also considered protectors or spiritual guides.",
+    "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 20,
+    "title": "Nature's Pest Controllers",
+    "gameName": "Owl Facts",
+    "content": "Owls play a vital role in healthy ecosystems by controlling populations of rodents and other small animals, helping maintain the balance of nature.",
+    "imageUrl": "https://images.unsplash.com/photo-1501854140801-50d01698950b?auto=format&fit=crop&w=800&q=80"
   }
 ]
